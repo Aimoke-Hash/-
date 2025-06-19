@@ -1,0 +1,7 @@
+train: E:\yolov5\yolov5-6.0\data\solar panels\train\images
+val: E:E:\yolov5\yolov5-6.0\data\solar panels\valid\images
+test: E:\yolov5\yolov5-6.0\data\solar panels\test\images
+
+nc: 6
+names: ['bird_drop', 'clean', 'dirty','Electrical Damage','Physical Damage','Snow Coverage']
+
